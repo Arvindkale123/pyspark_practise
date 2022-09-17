@@ -1,1 +1,1 @@
-# pyspark_practise
+# pyspark_practise sessions on google collab
